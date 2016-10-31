@@ -9,9 +9,9 @@ let combinedTruths = theTruth + ", " + alsoTrue
 
 // Finding a substring within a string
 var word = "fortunate"
-word.containsString("tuna")
+word.contains("tuna")
 
 // Replacing a substring 
 var password = "Mary had a little loris"
-var newPassword = password.stringByReplacingOccurrencesOfString("a", withString: "A")
+var newPassword = password.replacingOccurrences(of: "a", with: "A")
 //: [Next](@next)
