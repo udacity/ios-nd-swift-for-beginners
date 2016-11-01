@@ -6,6 +6,9 @@
         <page name='What is a string made of?'/>
         <page name='String interpolation'/>
         <page name='Common String manipulations'/>
+        <page name='Recap_What are strings made of?'/>
+        <page name='Recap_String interpolation'/>
+        <page name='Recap_String manipulation'/>
         <page name='Exercises'/>
         <page name='Exercises_solutions'/>
     </pages>
