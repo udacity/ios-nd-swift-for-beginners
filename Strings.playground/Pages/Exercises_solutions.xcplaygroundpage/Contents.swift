@@ -9,22 +9,12 @@ let whisperString = "psst" + ", " + didYouKnowString.lowercased()
 
 //Solution
 let shoutString = "HEY!" + " " + didYouKnowString.uppercased()
+
 //: ### Exercise 2
 //: How many characters are in this string?
 let howManyCharacters = "How much wood could a woodchuck chuck if a woodchuck could chuck wood?"
 
 //Solution
 let thisMany = howManyCharacters.characters.count
-//: ### Exercise 3
-//: Write a program that tells you whether or not this string contains the substring "ham".
-let word = "shampoo"
 
-// Solution
-word.contains("ham")
-//: ### Exercise 4
-//: Write a program that deletes all occurrences of the word "like" in the following string.
-let lottaLikes = "If like, you wanna learn Swift, like, you should build lots of small apps, cuz it's like, a good way to practice."
-
-// Solution
-let noLikes = lottaLikes.replacingOccurrences(of:"like", with: "")
 //: [Next](@next)
