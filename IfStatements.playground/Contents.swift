@@ -9,7 +9,7 @@ func buyTeddy() {
 }
 
 func watchAMovie(){
-    print("If you can't tell they're robots, then shouldn't they be treated as humans?")
+    print("Where is this movie quote from? \"I don't scratch my head unless it itches and I don't dance unless I hear some music. I will not be intimidated. That's just the way it is.\"")
 }
 
 // Example 1
