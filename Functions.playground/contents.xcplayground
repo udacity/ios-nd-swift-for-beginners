@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Function Syntax'/>
+        <page name='How do we use functions?'/>
+        <page name='Function Syntax Practice'/>
+        <page name='Function Syntax Solution'/>
+        <page name='Functions without Params'/>
+        <page name='Functions without Params Practice'/>
+        <page name='Functions without Params Solution'/>
+        <page name='Functions with Params'/>
+        <page name='Functions with Params Practice'/>
+        <page name='Functions with Params Solution'/>
+        <page name='Functions with Multiple Params'/>
+        <page name='Functions with Multiple Params Practice'/>
+        <page name='Functions with Multiple Params Solution'/>
+        <page name='Function Scope'/>
+        <page name='Returning Values'/>
+        <page name='Returning Values Practice'/>
+        <page name='Returning Values Solution'/>
+        <page name='Default Params'/>
+        <page name='Default Params Practice'/>
+        <page name='Default Params Solution'/>
+        <page name='Chaining Functions Together'/>
+    </pages>
+</playground>
