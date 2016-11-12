@@ -7,12 +7,14 @@ var gabrielle = "Gabrielle"
 var jessica = "Jessica"
 var jarrod = "Jarrod"
 
+
 //: Defining and using a function with parameters.
-func sayHello(student: String) {
+func sayHelloToStudent(student: String) {
     print("Hello, \(student)!")
 }
 
-sayHello(student: gabrielle)
-sayHello(student: jessica)
-sayHello(student: jarrod)
+sayHelloToStudent(student: jarrod)
+sayHelloToStudent(student: gabrielle)
+sayHelloToStudent(student: jessica)
+
 //: [Next](@next)

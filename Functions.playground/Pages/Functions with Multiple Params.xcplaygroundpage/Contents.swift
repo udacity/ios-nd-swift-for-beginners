@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 /*:
-## Functions without Multiple Params
-We'll create some Students for this example.
+## Functions with Multiple Params
+We'll create some students for this example.
 */
 
 var gabrielle = "Gabrielle"
